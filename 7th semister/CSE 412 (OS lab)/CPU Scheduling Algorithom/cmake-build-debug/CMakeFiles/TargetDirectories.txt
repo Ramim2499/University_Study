@@ -1,0 +1,7 @@
+E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom/cmake-build-debug/CMakeFiles/FCFS.dir
+E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom/cmake-build-debug/CMakeFiles/SJF.dir
+E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom/cmake-build-debug/CMakeFiles/SRJF.dir
+E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom/cmake-build-debug/CMakeFiles/Round_Robin.dir
+E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom/cmake-build-debug/CMakeFiles/Round_Robin_web.dir
+E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OS_Lab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FCFS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FCFS-Debug-7f29592d1c0877d5901a.json",
+					"name" : "FCFS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Round_Robin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Round_Robin-Debug-1bf28d673e199f5cc5a5.json",
+					"name" : "Round_Robin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Round_Robin_web::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Round_Robin_web-Debug-42d89ba9fbc6e0847dfe.json",
+					"name" : "Round_Robin_web",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SJF::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SJF-Debug-b005844f1f36fd75a8c1.json",
+					"name" : "SJF",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SRJF::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SRJF-Debug-6305f47fb698260af26e.json",
+					"name" : "SRJF",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom/cmake-build-debug",
+		"source" : "E:/University_Study/7th semister/CSE 412 (OS lab)/CPU Scheduling Algorithom"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
